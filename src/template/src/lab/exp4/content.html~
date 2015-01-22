@@ -12,7 +12,7 @@ edit -->
 
 <body>
     <div id="experiment">
-        <!-- The Experiment Document Container-->
+        <!-- The Experiment Document Containe-->
         <!-- The lab Header contains the logo and the name of the lab,
   usually displayed on the top of the page-->
 
@@ -78,21 +78,56 @@ edit -->
                             "text-decoration: underline"><span style=
                             "font-family: arial,helvetica,sans-serif; color: rgb(255, 0, 0);">
                             <span style=
-                            "font-size: large;"></span></span></strong></h2>
+                            "font-size: large;">Assignment</span></span></strong></h2>
 
-                          
-                           
+                            <p>&nbsp;</p>
 
-                            
-                            
+                            <p class="MsoNormal" style=
+                            "line-height: 150%; text-align: right;"><a href=
+                            "http://coep.vlab.co.in/?sub=33&amp;brch=91"><span style="font-family: arial,helvetica,sans-serif; font-size: medium;">
+                            Back To Experiment List</span></a></p>
 
-                           
+                            <p><span style=
+                            "font-size: medium; font-family: arial,helvetica,sans-serif; color: rgb(0, 0, 0);">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To
+                            understand the working principle of RTD.</span></p>
 
-                           
+                            <p>&nbsp;</p>
 
-                           
-                            
+                            <p>&nbsp;</p>
 
+                            <p><span style=
+                            "font-family: arial,helvetica,sans-serif; color: rgb(0, 0, 0);">
+                            <strong><span style=
+                            "font-size: large;">Objective:-</span></strong></span></p>
+
+                            <p>&nbsp;</p>
+
+                            <p>&nbsp;</p>
+
+                            <p><!-- p { margin-bottom: 0.21cm; } --></p>
+
+                            <p style="margin-bottom: 0cm;"><span style=
+                            "font-family: arial,helvetica,sans-serif; font-size: medium; color: rgb(51, 51, 51);">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.
+                            Study static and dynamic characteristics of
+                            RTD</span></p>
+
+                            <p style="margin-bottom: 0cm;">&nbsp;</p>
+
+                            <p style="margin-bottom: 0cm;"><span style=
+                            "font-family: arial,helvetica,sans-serif; font-size: medium; color: rgb(51, 51, 51);">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.
+                            Study effect of various parameters on RTD
+                            performance<br></span></p>
+
+                            <p style="margin-bottom: 0cm;">&nbsp;</p>
+
+                            <p style="margin-bottom: 0cm;">&nbsp;</p>
+
+                            <p style="margin-bottom: 0cm;">&nbsp;</p>
+
+                            <p style="margin-bottom: 0cm;">&nbsp;</p>
 
                             <p><span style=
                             "font-family: arial,helvetica,sans-serif; font-size: medium; color: rgb(0, 0, 0);">
@@ -119,8 +154,199 @@ edit -->
                         <div class="divQuiz">
                             <div id="displayQuiz">
                                 <form id="form11" method="post" name="form11">
-                                  
-           
+                                    <table border="0" style="width:100%">
+                                        <tr>
+                                            <td valign="top" width="2%"></td>
+
+                                            <td style=
+                                            "font-weight: bold; vertical-align: top; width: 1%"
+                                            width="5%"><span id=
+                                            "questionNum">1)</span></td>
+
+                                            <td colspan="2" style=
+                                            "vertical-align:top;" width="70%">
+                                            <span id="question">Transducer is a
+                                            device</span></td>
+
+                                            <td colspan="3" width="3%">
+                                            &nbsp;</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>&nbsp;</td>
+
+                                            <td>&nbsp;</td>
+
+                                            <td colspan="5" width="80%">
+                                                <table align="left" border="0"
+                                                width="100%">
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans5998" name="ans0"
+                                                        type="radio" value=
+                                                        "5998"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans5998">that converts
+                                                        one form of energy into
+                                                        another
+                                                        form</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans5999" name="ans0"
+                                                        type="radio" value=
+                                                        "5999"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans5999">has mostly
+                                                        eletrical
+                                                        output</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6000" name="ans0"
+                                                        type="radio" value=
+                                                        "6000"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6000">with both the
+                                                        above
+                                                        properties</label></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <div id="hint">
+                                        <div id="textHint10" style=
+                                        "padding-left:50px; color:#F00;"></div>
+                                    </div>
+                                    <hr id="horizontalLine">
+
+                                    <table border="0" style="width:100%">
+                                        <tr>
+                                            <td valign="top" width="2%"></td>
+
+                                            <td style=
+                                            "font-weight: bold; vertical-align: top; width: 1%"
+                                            width="5%"><span id=
+                                            "questionNum">2)</span></td>
+
+                                            <td colspan="2" style=
+                                            "vertical-align:top;" width="70%">
+                                            <span id="question">Temperature is
+                                            measure of degree of -------- of a
+                                            substance.</span></td>
+
+                                            <td colspan="3" width="3%">
+                                            &nbsp;</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>&nbsp;</td>
+
+                                            <td>&nbsp;</td>
+
+                                            <td colspan="5" width="80%">
+                                                <table align="left" border="0"
+                                                width="100%">
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6001" name="ans1"
+                                                        type="radio" value=
+                                                        "6001"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6001">Hotness</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6002" name="ans1"
+                                                        type="radio" value=
+                                                        "6002"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6002">Coldness</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6003" name="ans1"
+                                                        type="radio" value=
+                                                        "6003"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6003">Hotness or
+                                                        Coldness</label></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <div id="hint">
+                                        <div id="textHint11" style=
+                                        "padding-left:50px; color:#F00;"></div>
+                                    </div>
+                                    
+                                    <div id="hint">
+                                        <div id="textHint14" style=
+                                        "padding-left:50px; color:#F00;"></div>
+                                    </div>
+                                    <hr id="horizontalLine">
+                                    <input align="middle" id="loadTime" name=
+                                    "loadTime" type="hidden" value=
+                                    "1379688870/"><br>
+
+                                    <div style="padding-left:40px;">
+                                        <input id="submit1" name="submit1"
+                                        onclick="get_radio_value();" style=
+                                        "width:8%;" type="submit" value=
+                                        "&nbsp;Submit&nbsp;">&nbsp;&nbsp;<input id="cancel1"
+                                        name="cancel1" style="width:8%;" type=
+                                        "reset" value="&nbsp;Cancel&nbsp;">
+                                    </div>
                                 </form><br>
                             </div><br>
                         </div>
@@ -150,138 +376,103 @@ mso-fareast-font-family:"Times New Roman";}
 &lt;![endif]--></p>
 
                             <p class="MsoNormal" style="line-height: 150%;">
-      <h3>Position analysis of Non Grashoffour bar mechanism Theory</h3>
-Learning objectives
-After completing this simulation experiment one should be able to
+ 
 
-<ul><li>Determine the location CG of any given link in a Non Grashof four bar
-mechanism</li><li>Determine the output link angle of a Non Grashof four bar mechanism for
-any given crank angle</li>
-<li>
-Calculate the transmission angle of a given Non Grashof four bar
-mechanism at any given crank angle</li>
-<li>
-Synthesis length of a Non Grashof four bar mechanism for a given
-conditions</li></ul>
-
-
-Basic theory is given under different subsections in the same document.</br>
-
-Introduction</br>
-<p>Four Bar Mechanism Grashof Inversions  Double crank mechanismCrank-
-rocker mechanism  Double-rocker mechanism Parallel crank
-
-                                 
-
-mechanismPosition analysis, Velocity analysis  Acceleration analysis
+After completing this simulation experiment one should be able to </br>
+	Model a given real system to an equivalent simplified model of single degree freedom system with suitable assumptions / idealisations.</br>
+	Calculate the natural frequency of undamped oscillation, critical damping constant and critical damping ratio of the proposed single degree freedom system.</br>  
+	Study the response of the system for different harmonic excitation frequency and amplitude of the base.</br>
+	Calculate the transmissibility ratio and phase angle as a function of forcing frequency</br>
+<h3 style="color:#997e11">
+Forced vibration of single degree of freedom system- Base excitation</h3></br>
+Introduction </br></br>
+In many cases, dynamical system is excited by motion of the support point or base as shown in the Fig 1.
+ The base excitation system may be of vehicle suspension system or earthquake response of a structure or a performance
+ of a precision machine located close proximity of a vibrating structure as shown in Fig 2. The motion of the base causes the main system to vibrate as a function of excitation frequency and amplitude. 
+ Base excitation models the behaviour of a vibration isolation system and is applicable in the analysis of preventing the excitations from passing from a vibrating base through its mount into a structure. 
 </p>
 
-<h3>Four Bar Mechanism</h3>
-<img src="../images/posn1.png">
-<p>A four bar mechanism consists of four rigid link which are linked in the form of
-quadrilateral by four pin joints. A link that makes complete revolution is called crank, the link
-opposite to the fixed link is the coupler and forth link is a lever or rocker if oscillates or another
-crank if rotates. Here r1, r2, r3 and r4 are the links of the mechanisms.
-</p>
-<img src="../images/posn2.png">
-<p><h3>Grashoff’s Law:</h3>
-For a planar four bar linkage, the sum of the shortest and longest links cannot be greater
-than the sum of the remaining links if there is to be continuous relative rotation between two
-members.
-</p>
-<h3>Inversions</h3>
-<img src="../images/posn3.png">
-A mechanism has been defined above as a kinematic chain in which one of the links is fixed. From
-the four bar mechanism, different versions of each of them can be obtained by fixing any one of
-the links p, q l or s. Such different versions, which can be obtained by fixing any of the different
-links, are called its “Inversions”. Many a time, a particular inversion of a mechanism may give
-rise to different mechanisms of practical utility, when the proportions of the link lengths are
-changed.
-By this principle of inversion of a fourbar chain, several useful mechanisms can be obtained.
-There are three inversions of four bar mechanisms, which are obtained by fixing different links of
-the kinematic chain. They are:</br>
+<p>
+<figure>
+<img src="../images/fvss1.png" alt="HTML5 Icon"  class="figure" ></br>
+  <figcaption>Fig 1: Dynamic vibration absorber in steel stack</figcaption>
+</figure>
 
 
-a) Double Crank Mechanism</br>
-b) Crank Rocker Mechanism</br>
-c) Double Rocker Mechanism</br>
-<h3>Double Crank Mechanism</h3>
+<figure>
+<img src="../images/fvss2.png" alt="HTML5 Icon"  class="figure"></br>
+  <figcaption>Fig 2: Dynamic vibration absorber PCB</figcaption>
+</figure>
+To study the response of a dynamic system for base excitation, given real system  will be modelled as a equivalent single 
+degree spring-mass system as shown in Fig 3 and it is excited by a harmonic input y(t)=Y sin?t applied at the base. The proposed single degree
+spring-mass system can be thought of as representing a single mode of vibration in a real system, whose natural frequency and damping coefficient coincide with that of proposed spring-mass system.  </p>
 
-<img src="../images/posn4.png">
-<p>A double crank converts rotary motion from a crank to a second crank or link in a different
-plane or axis. It is also known as crank-crank, drag-crank or rotary-rotary converter. The links p,
-q and l shown above rotate through one complete revolution. This is one of the first inversions of
-four-bar mechanisms.
-<br><br>
-In this discussion, let$’$s call the link‘s’ the frame as the fixed link. We will call the link ‘q’ the crank,
-‘p’ the coupler and ‘l’ the lever for now. Crank is not defined as the link, which is attached to the
-driver shaft; rather it’s the link, which does a complete revolution. And in this configuration, as
-there are two links, both q and l, which revolves completely about the hinged point on the frame,
-both of them, is cranks.
-<br><br>
-The term is commonly used in automotive technology for the link in a four bar steering linkage
-that converts rotation of a steering arm to a center link and eventually to tie-rod links which
-pivot the wheels to be steered. A double crank is used when the steering arm operates in a plane
-above the other links. The double crank converts the sweeping arc of the steering arm to linear
-motion in the plane of the other steering links.
-<br><br>
-</p>
-<h3>Crank-Rocker Mechanism
-</h3>
+<figure><img src="../images/fvss3.png" alt="HTML5 Icon"  class="figure"></br>
+  <figcaption>
+Fig 3: A single degree of freedom system and vibration absorber system</figcaption>
+</figure>
 
-<img src="../images/posn5.png">
-<p>In a four bar linkage, if the shorter side link revolves and the other rocks (i.e., oscillates), it is
-called a crank-rocker mechanism.
-In this case, there is only a slight change, leave the smallest side and connect any of its adjacent
-side as the frame. Then (in figure) the smallest side ‘s’ will have full 360 degree revolution while
-the other link adjacent to the frame has only oscillating motion (link p). This kind of mechanism
-is hence called a crank-lever mechanism or a crank-rocker mechanism or a rotary-oscillating
-converter.
-</p>
-<h3>Double-Rocker Mechanism</h3>
+Differential equation of motion of the system is given by,</br>
+$m\overset{}{\ddot x+c\overset.x+kx=c\dot y+ky}\;$... (1)</br>
+Since support is excited by a harmonic function y(t)=Y sin?t, substituting y and  in equation 1,</br>
+$m\overset{}{\ddot x+c\overset.x+kx=c\omega Y\cos\left(\omega t\right)}\;+kY\;\sin\left(\omega t\right)$	... (2)</br>
+Equation 2 can be rewritten as,</br>
+     $m\overset{}{\ddot x+c\overset.x+kx=Y\sqrt{k^2+(c\omega)^2}}\;\sin(\omega t+\alpha)$... (3)</br></br>
+where,</br>
 
-<img src="../images/posn6.png">
-<p>A linkage in which no link undergoes entire 360-degree revolution but only oscillations is known
-as a double-lever mechanism.
-This linkage results when the shortest side in the mechanism is made the coupler. The other two
-links only get to oscillate in their place. A linkage in which the sum of the longest and shortest
-link is less than the sum of the other two sides, is known as a Class I mechanism, otherwise it’s
-Class II. This mechanism is achieved when it is Class II. It’s also called rocker-rocker mechanism,
-double-rocker mechanism or oscillating oscillating-converter.
-</p>
-<h3>Parallel Crank Mechanism
-</h3><br>
-<img src="../images/posn7.png">
-<p>If in a 4 bar linkage, two opposite links are parallel and equal in length, then any of the links can
-be made fixed, regardless, the two adjacent links will always act as a pair of cranks, i.e. , both will
-have complete revolution about their joints on the frame.
-The use of such mechanism is made in coupled wheels of locomotives in which the rotary motion
-of one wheel is transmitted to the other wheel.
-</p>
-<h3>Position analysis of four bar mechanism
-</h3>
-<img src="../images/posn8.png">
-<p>The position of the points on the links A (Ax, Ay) and B (Bx, By)
-The coordinates of the point A are found using trigonometry as follows:
-</p>
-$$A_x=a\cos\left(\theta_2\right)$$
-$$A_y=a\sin\left(\theta_2\right)$$
+$\alpha=\tan^{-1}\left(\frac{c\omega}k\right)=\tan^{-1}\left(2\varsigma\frac\omega{\omega_n}\right)$</br>
 
-$$b^2=(B_x-A_x)^2+(B_y-A_y)^2$$
-$$c^2=(B_x-d)^2+B_y^2$$
+The general solution of this mathematical model consists of two parts, the complementary 
+function which is the solution of the homogenous equation, and the particular integral. The particular solution to the preceding equation is a steady-state oscillation of same frequency ? 
+as that of excitation. We can assume particular solution to be of the form
 
 
-Similarly coordinates of point B are found using the equations of circle around A and O4.</br>
-$$B_x=\frac{a^2-b^2+c^2-d^2}{2(A_x-d)}-\frac{2A_yB_y}{2(A_x-d)}=S-\frac{2A_yB_y}{2(A_x-d)}$$
-$$B_y=\frac{-Q\pm\sqrt{Q^2-4PR}}{2P}$$
-where,
-$$P=\frac{{A^2}_y}{(A_x-d)^2}+1\;\;Q=\frac{2A_y(d-S)}{A_x-d}\;\;R=(d-S^2)-c^2\;\;S=\frac{a^2-b^2+c^2-d^2}{2(A_x-d)}$$</br>
-The link angles are given by
-$$\theta_3=\tan^{-1}\left(\frac{B_y-A_y}{B_x-A_x}\right)$$
-$$\theta_4=\tan^{-1}\left(\frac{B_y}{B_x-d}\right)$$  
+$x=X\sin(\omega t+\alpha-\phi)$... (4)</br>
+
+Where X is the amplitude of oscillation and   is the phase of the displacement with respect to the exciting force.</br>
+By substituting the equation 4 in equation 3, steady state amplitude X and phase   given as,</br></br>
+         $X=\frac{Y\sqrt{k^2+(c\omega^2)}}{\sqrt{(k-m\omega^2)^2+(c\omega)^2}}$        ... (5)</br></br>
+$\phi=\tan^{-1}\left(\frac{c\omega}{(k-m\omega^2)}\right)$... (6)</br>
+
+Where,
+	? is the excitation frequency		m is the equivalent mass of the system
+	k is the equivalent spring stiffness 	c is the equivalent damping coefficient 
+
+Equation 5 and 6 written in dimensionless form as,
+$\frac XY=\frac{\sqrt{1+(2\varsigma{\displaystyle\frac\omega{\omega_n}})^2}}{\sqrt{\lbrack1-({\displaystyle\frac\omega{\omega_n}})^2\rbrack^2+(2\varsigma{\displaystyle\frac\omega{\omega_n}})^2}}=\frac{\sqrt{1+(2\varsigma\eta)^2}}{\sqrt{(1-\eta^2)^2+(2\varsigma\eta)^2}}$...(7)</br></br>
+	 
+$\phi=\tan^{-1}\left(\frac{2\varsigma({\displaystyle\frac\omega{\omega_n}})}{(1-({\displaystyle\frac\omega{\omega_n}})^2)}\right)$...(8)</br></br>
+
+Motion of the mass lags the support through an angle  or the angle of lag.</br>
+
+$lag=\phi-\alpha=\tan^{-1}\left(\frac{2\varsigma({\displaystyle\frac\omega{\omega_n}})}{(1-({\displaystyle\frac\omega{\omega_n}})^2)}\right)-\tan^{-1}\left(2\varsigma\frac\omega{\omega_n}\right)$...(9)</br>
+
+Where,</br>
+$\omega_n$ = $\sqrt{\left(\frac km\right)}$ = natural frequency of un-damped oscillation</br>
+$c_c$ = $2m\omega_{nf}$  = critical damping constant </br></br> 
+$\varsigma$ = $\frac c{c_c}$ = damping ratio</br></br>
+$\eta$ is the frequency ratio</br>
+The ratio of the amplitude of response x(t) to that of y(t),  X/Y  is called the displacement transmissibility Td. The variations of  X/Y  and  angle of lag  given by the equation 7 and 9 are shown in Fig 4 for different value of  r and ?</br>
+
 </p>
 
-                        </section>
+
+
+<img src="../images/fvss4.png" alt="HTML5 Icon"   class="figure"></br>
+
+<p>
+Lets try to understand these equations by doing a few simple simulations, go to next tab procedure to find out how to run the simulation to EXPLORE (expR) and to EXPERIMENT (expT).</br>
+ A talking tutorial or a self-running demo with narration can be seen at EXPLAIN (expN).</br>
+
+</p>
+ </section>
+
+
+
+
+
+                           
+ 
 
                 <section id="experiment-article-section-4">
                     <div class="icon" id="experiment-article-section-4-icon">
@@ -298,13 +489,7 @@ $$\theta_4=\tan^{-1}\left(\frac{B_y}{B_x-d}\right)$$
                         <div class="divContent">
                             <p><a href=
                             "./FreeVibrationSDOF_expN_ver2.swf"
-                            target="_blank">expN</a></p>
-<p><a href=
-                            "./FreeVibrationSDOF_expN_ver2.swf"
-                            target="_blank">expR</a></p>
-<p><a href=
-                            "./FreeVibrationSDOF_expN_ver2.swf"
-                            target="_blank">expT</a></p>
+                            target="_blank">FreeVibrationSDOF_expN_ver2</a></p>
                         </div>
                     </div>
 
@@ -385,12 +570,27 @@ mso-bidi-theme-font:minor-bidi;}
                             'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>
                             &nbsp;</span></p>
 
-         </section> 
-                <section id="experiment-article-section-6">
-                    <div class="icon" id="experiment-article-section-6-icon">
-                    <!-- Enclose the icon image of your lab.-->
-                    <img src="../images/manual.jpg"></div>
-                  
+                            <p class="MsoNormal" style="line-height: 150%;">
+                            <b><span lang="EN-IN" style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>
+                            </span></b><span lang="EN-IN" style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>:
+                            </span></p>
+
+                            <p class="MsoNormal" style="line-height: 150%;">
+                            <span lang="EN-IN" style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>
+
+
+
+
+
+
+                            </span></p>
+</section>
+                          
+
+      <section id="experiment-article-section-6">                       
 
                     <div class="heading" id=
                     "experiment-article-section-6-heading">
@@ -402,9 +602,194 @@ mso-bidi-theme-font:minor-bidi;}
                         <div class="divQuiz">
                             <div id="displayQuiz">
                                 <form id="form11" method="post" name="form11">
-                                  
+                                    <table border="0" style="width:100%">
+                                        <tr>
+                                            <td valign="top" width="2%"></td>
 
-                             
+                                            <td style=
+                                            "font-weight: bold; vertical-align: top; width: 1%"
+                                            width="5%"><span id=
+                                            "questionNum">1)</span></td>
+
+                                            <td colspan="2" style=
+                                            "vertical-align:top;" width="70%">
+                                            <span id="question">RTD is very
+                                            popular for temperature measurement
+                                            because of</span></td>
+
+                                            <td colspan="3" width="3%">
+                                            &nbsp;</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>&nbsp;</td>
+
+                                            <td>&nbsp;</td>
+
+                                            <td colspan="5" width="80%">
+                                                <table align="left" border="0"
+                                                width="100%">
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6058" name="ans0"
+                                                        type="radio" value=
+                                                        "6058"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6058">Cost</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6057" name="ans0"
+                                                        type="radio" value=
+                                                        "6057"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6057">Self
+                                                        heating</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6059" name="ans0"
+                                                        type="radio" value=
+                                                        "6059"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6059">Linearity</label></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <div id="hint">
+                                        <div id="textHint10" style=
+                                        "padding-left:50px; color:#F00;"></div>
+                                    </div>
+                                    <hr id="horizontalLine">
+
+                                    <table border="0" style="width:100%">
+                                        <tr>
+                                            <td valign="top" width="2%"></td>
+
+                                            <td style=
+                                            "font-weight: bold; vertical-align: top; width: 1%"
+                                            width="5%"><span id=
+                                            "questionNum">2)</span></td>
+
+                                            <td colspan="2" style=
+                                            "vertical-align:top;" width="70%">
+                                            <span id="question">In the Pt100,
+                                            the suffix 100 refers
+                                            to</span></td>
+
+                                            <td colspan="3" width="3%">
+                                            &nbsp;</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>&nbsp;</td>
+
+                                            <td>&nbsp;</td>
+
+                                            <td colspan="5" width="80%">
+                                                <table align="left" border="0"
+                                                width="100%">
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6061" name="ans1"
+                                                        type="radio" value=
+                                                        "6061"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6061">Resistance at
+                                                        Room
+                                                        Temperature</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6060" name="ans1"
+                                                        type="radio" value=
+                                                        "6060"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6060">100% pure
+                                                        platinum</label></td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <td align="right" id=
+                                                        "textAnsChoice" style=
+                                                        "vertical-align:middle"
+                                                        width="32px"><input id=
+                                                        "ans6062" name="ans1"
+                                                        type="radio" value=
+                                                        "6062"></td>
+
+                                                        <td id="textAnsChoice"
+                                                        style=
+                                                        "padding-left:3px;">
+                                                        <label for=
+                                                        "ans6062">Resistance at
+                                                        0 degree C</label></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <div id="hint">
+                                        <div id="textHint11" style=
+                                        "padding-left:50px; color:#F00;"></div>
+                                    </div>
+                                    <hr id="horizontalLine">
+
+                                   
+                                    <input align="middle" id="loadTime" name=
+                                    "loadTime" type="hidden" value=
+                                    "1379688873/"><br>
+
+                                    <div style="padding-left:40px;">
+                                        <input id="submit1" name="submit1"
+                                        onclick="get_radio_value();" style=
+                                        "width:8%;" type="submit" value=
+                                        "&nbsp;Submit&nbsp;">&nbsp;&nbsp;<input id="cancel1"
+                                        name="cancel1" style="width:8%;" type=
+                                        "reset" value="&nbsp;Cancel&nbsp;">
+                                    </div>
                                 </form><br>
                             </div><br>
                         </div>
@@ -427,15 +812,15 @@ mso-bidi-theme-font:minor-bidi;}
                             <h2 style="color: red;"><strong style=
                             "text-decoration: underline"><span style=
                             "font-family: arial,helvetica,sans-serif; color: rgb(255, 0, 0);">
-                            <span style="font-size: large;">
-                            </span></span></strong></h2>
+                            <span style="font-size: large;">Review
+                            Questions</span></span></strong></h2>
 
                             <h2>&nbsp;</h2>
 
                             <p class="MsoNormal" style=
                             "line-height: 150%; text-align: right;"><a href=
                             "http://coep.vlab.co.in/?sub=33&amp;brch=91"><span style="font-family: arial,helvetica,sans-serif; font-size: medium;">
-                              </span></a></p>
+                            Back To Experiment List</span></a></p>
 
                             <p>&nbsp;</p><!--[if gte mso 9]&gt;&lt;xml&gt;
 font-size:11.0pt;
@@ -449,10 +834,28 @@ mso-bidi-theme-font:minor-bidi;}
 &lt;/style&gt;
 &lt;![endif]-->
 
-                           
+                            <h1 style=
+                            "margin-left: 0.75in; text-align: justify; text-indent: -0.25in; line-height: 150%; page-break-after: auto;">
+                            <span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif"; color: black; font-weight: normal;'>
+                            <span style="">1.<span style=
+                            'font: 7pt "Times New Roman";'>&nbsp;&nbsp;&nbsp;</span></span></span>
+                            <span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif"; color: black; font-weight: normal;'>
+                            What are different sources of errors in RTD
+                            measurement?</span></h1>
+
                             <p>&nbsp;</p>
 
-                           
+                            <h1 style=
+                            "margin-left: 0.75in; text-align: justify; text-indent: -0.25in; line-height: 150%; page-break-after: auto;">
+                            <span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif"; color: black; font-weight: normal;'>
+                            <span style="">2.<span style=
+                            'font: 7pt "Times New Roman";'>&nbsp;&nbsp;&nbsp;</span></span></span>
+                            <span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif"; color: black; font-weight: normal;'>
+                            What is lead wire compensation?</span></h1>
 
                             <p>&nbsp;</p>
 
@@ -502,7 +905,7 @@ font-family:"Times New Roman","serif";}
                             <p class="PreformattedText"><b style=""><span lang=
                             "EN-IN" style=
                             'font-size: 12pt; font-family: "Verdana","sans-serif";'>
-                            </span></b><span lang="EN-IN" style=
+                            Books</span></b><span lang="EN-IN" style=
                             'font-size: 12pt; font-family: "Verdana","sans-serif";'>:</span></p>
 
                             <p class="PreformattedText">&nbsp;</p>
@@ -532,26 +935,49 @@ mso-bidi-theme-font:minor-bidi;}
 &lt;/style&gt;
 &lt;![endif]--></p>
 
-                            
-                            <p class="MsoNormal" style="line-height: normal;">
-                            <span style=
+                            <p class="MsoNormal" style=
+                            "text-indent: 0.25in; line-height: normal;">
+                            <span lang="EN-IN" style=
                             'font-size: 12pt; font-family: "Arial","sans-serif";'>
-                            &nbsp;</span></p>
-
-                            
-
-                            <p class="MsoNormal" style="line-height: normal;">
-                            <span style=
-                            'font-size: 12pt; font-family: "Arial","sans-serif";'>
-                            &nbsp;</span></p>
-
-                           
+                            [1] D. Patranabis, “<i>Sensors and
+                            Transducers</i>”</span></p>
 
                             <p class="MsoNormal" style="line-height: normal;">
                             <span style=
                             'font-size: 12pt; font-family: "Arial","sans-serif";'>
                             &nbsp;</span></p>
 
+                            <p class="MsoNormal" style=
+                            "margin-left: 0.25in; line-height: normal;">
+                            <span lang="EN-IN" style=
+                            'font-size: 12pt; font-family: "Arial","sans-serif";'>
+                            [2] A. K. Shawney, “<i>A course in Mechanical
+                            Measurements and Instrumentation</i>”</span></p>
+
+                            <p class="MsoNormal" style="line-height: normal;">
+                            <span style=
+                            'font-size: 12pt; font-family: "Arial","sans-serif";'>
+                            &nbsp;</span></p>
+
+                            <p class="MsoNormal" style=
+                            "margin-left: 0.25in; line-height: normal;">
+                            <span lang="EN-IN" style=
+                            'font-size: 12pt; font-family: "Arial","sans-serif";'>
+                            [3] Bela G. Liptak, “<i>Instrument Engineers</i>'
+                            <i>Handbook: Process Measurement and
+                            Analysis</i>”</span></p>
+
+                            <p class="MsoNormal" style="line-height: normal;">
+                            <span style=
+                            'font-size: 12pt; font-family: "Arial","sans-serif";'>
+                            &nbsp;</span></p>
+
+                            <p class="MsoNormal" style=
+                            "text-indent: 0.25in; line-height: normal;">
+                            <span lang="EN-IN" style=
+                            'font-size: 12pt; font-family: "Arial","sans-serif";'>
+                            [4] Doeblin, “<i>Measurement Systems Applications
+                            and Design</i>”</span></p>
 
                             <p class="MsoNormal">&nbsp;</p>
 
@@ -1197,7 +1623,14 @@ font-family:"Times New Roman","serif";}
 &lt;/style&gt;
 &lt;![endif]--></h3>
 
-                           
+                            <h3>&nbsp;</h3>
+
+                            <h3>&nbsp;</h3>
+
+                            <h3 style="font-weight: bold"><span lang="EN-IN"
+                            style=
+                            'font-size: 12pt; font-family: "Verdana","sans-serif";'>
+                            Useful links:</span></h3>
 
                             <h2><span style=
                             "color: rgb(51, 102, 255);">&nbsp;</span></h2>
@@ -1207,7 +1640,16 @@ font-family:"Times New Roman","serif";}
                             <meta content="Microsoft Word 12" name="Generator">
                             <meta content="Microsoft Word 12" name=
                             "Originator">
-                           
+                            <link href=
+                            "file:///C:%5CUsers%5Cinstru%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_filelist.xml"
+                            rel="File-List">
+                            <link href=
+                            "file:///C:%5CUsers%5Cinstru%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_themedata.thmx"
+                            rel="themeData">
+                            <link href=
+                            "file:///C:%5CUsers%5Cinstru%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_colorschememapping.xml"
+                            rel="colorSchemeMapping"><span style=
+                            "color: rgb(51, 102, 255);">
                             <!--[if gte mso 9]&gt;&lt;xml&gt;
 &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
 DefSemiHidden="true" DefQFormat="false" DefPriority="99"
@@ -2153,11 +2595,74 @@ mso-bidi-theme-font:minor-bidi;}
 &lt;/style&gt;
 &lt;![endif]--></h2>
 
+                            <h2 style=
+                            "margin-left: 0.5in; text-indent: -0.25in; line-height: 150%;">
+                            <span style=""><span style=
+                            "">&nbsp;</span></span><span style=
+                            "color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            1<span style=
+                            "background-color: rgb(255, 255, 255);">.<span style='font: 7pt "Times New Roman";'>&nbsp;</span></span><span style='font: 7pt "Times New Roman";'>&nbsp;&nbsp;&nbsp;</span></span>
+                            <span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>
+                            <a href=
+                            "http://www.sensortecinc.com/docs/technical_resources/RTD_Theory.pdf">
+                            <span style=
+                            "color: rgb(0, 0, 0);">http://www.sensortecinc.com/docs/technical_resources/RTD_Theory.pdf</span></a></span>
+                            <span style="color: rgb(0, 0, 0);"><span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>
+                            </span><span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>&nbsp;</span></span></h2>
 
-                            
-                        
+                            <p style="text-indent: 2.25pt;"><span style=
+                            "color: rgb(0, 0, 0);">&nbsp;</span></p>
 
-                           
+                            <p style="text-indent: 2.25pt;"><span style=
+                            "color: rgb(0, 0, 0);">&nbsp;</span></p>
+
+                            <h2 style=
+                            "margin-left: 0.5in; text-indent: -0.25in; line-height: 150%;">
+                            <span style=
+                            "color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            2.<span style=
+                            'font: 7pt "Times New Roman";'>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+                            <span style=
+                            'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>
+                            <a href=
+                            "http://www.tempsensor.net/index.php?name=Sections&amp;req=listarticle&amp;secid=17">
+                            <span style=
+                            "color: rgb(0, 0, 0);">http://www.tempsensor.net/index.php?name=Sections&amp;req=listarticle&amp;secid=17</span></a></span></h2>
+
+                            <p><span style=
+                            "color: rgb(0, 0, 0);">&nbsp;</span></p>
+
+                            <p style="text-indent: 2.25pt;"><span style=
+                            "color: rgb(0, 0, 0);">&nbsp;</span></p>
+
+                            <h2 style=
+                            "margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;">
+                            <span style=
+                            "color: rgb(0, 0, 0);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: rgb(51, 51, 0);">&nbsp;</span>
+                            <span style="color: rgb(0, 0, 0);"><span style=
+                            "background-color: rgb(255, 255, 255);">3.</span></span>
+                            <b style=""><a href=
+                            "http://www.omega.com/toc_asp/frameset.html?book=Temperature&amp;file=RTD_Gen_Specs_Ref"
+                            target="_blank"><span style=
+                            "color: rgb(0, 0, 0);"><small>http://www.omega.com/toc_asp/frameset.html?book=Temperature&amp;</small></span></a></b><b style=""><a href="http://www.omega.com/toc_asp/frameset.html?book=Temperature&amp;file=RTD_Gen_Specs_Ref"
+                            target="_blank"><span style=
+                            "color: rgb(0, 0, 0);"><small>file=RTD_Gen_Specs_Ref</small></span></a></b></h2>
+
+                            <p><span style=
+                            "color: rgb(0, 0, 0);">&nbsp;</span></p>
+
+                            <p>&nbsp;</p>
+
+                            <p>&nbsp;</p>
+
+                            <p>&nbsp;</p>
+
+                            <p>&nbsp;</p>
+
+                            <p>&nbsp;</p>
 
                             <p>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -2515,7 +3020,18 @@ mso-bidi-theme-font:minor-bidi;}
 
                     <div class="content" id=
                     "experiment-article-section-9-content">
-                      
+                        <p><b>Q1.</b> Time taken for one complete oscillation
+                        is called Time Period of the oscillator.<br>
+                        <input id="q1" name="q1" type="radio" value="1">
+                        True<br>
+                        <input id="q1" name="q1" type="radio" value="0">
+                        False<br>
+                        <br>
+                        <b>Q2.</b> Time period of the oscillator is constant
+                        for given values of mass, length and initial
+                        conditions.<br>
+                        <input id="q2" name="q2" type="radio" value="1">
+                        True<br></p>
                     </div>
                 </section>
             </div>

@@ -97,7 +97,7 @@ body
 
 nav#lab-article-navigation, nav#experiment-article-navigation 
 {
-	height:190px;
+	height:100px;
 	margin: 0 auto;
 	width:1024px;
 	background: url(../images/content_bg.jpg);
